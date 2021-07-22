@@ -14,6 +14,13 @@ public class Example1 {
 		System.out.println("data1_data");
 		
 	}
+	
+	
+	public void data2() {
+		System.out.println("data1_git");
+		System.out.println("data1_data_git");
+	}
+	
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 	Example1 e=new Example1();
